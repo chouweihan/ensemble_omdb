@@ -1,5 +1,5 @@
 # ensemble_omdb
 
-ensemble application code assesment project: front-end
+code assesment project: front-end for Ensemble
 
-env containing api key not included
+env file containing api key not included
